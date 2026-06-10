@@ -4,8 +4,8 @@
 // ── Global Config (pacified) ──────────────────────────────────
 const CONFIG = Object.freeze({
   INITIAL_NUMBER  : 1,       // first component index
-  FINAL_NUMBER    : 30,      // last  component index
-  TEXT_LABEL      : "Lorem ipsum dolar smite",
+  FINAL_NUMBER    : 50,      // last  component index
+  TEXT_LABEL      : "I Love You MY HoneyPie❤️",
   INTERVAL_MS     : 200,     // ms between each component spawn
   SCROLL_DURATION : 0.05,    // GSAP scroll duration (s)
   ENTRY_DURATION  : 0.05,    // GSAP chip entry duration (s)
